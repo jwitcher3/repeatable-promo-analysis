@@ -43,6 +43,21 @@ This project provides a **repeatable, widget-driven framework** for analyzing pr
 - Compare product demand before and after a campaign
 - Generate repeatable analysis views for business stakeholders
 
+## 📊 Example Visuals
+
+### Units Sold Comparison
+![Units Before, During, After](docs/promo_units_comparison.png)
+
+### Percent Lift from Promotion
+![Percent Lift](docs/promo_lift_comparison.png)
+
+
+### Weekly Units Sold with Promotion Highlight
+
+This chart visualizes demand trends before, during, and after a promotion. The red dashed line indicates when the promotion started.
+
+![Weekly Units Sold with Promo](docs/weekly_units_timeseries_with_promo.png)
+
 ---
 
 ## 🧱 Requirements
@@ -58,4 +73,11 @@ This project provides a **repeatable, widget-driven framework** for analyzing pr
 
 ## 📩 Contact
 
+## ✍️ Author
+Made with ❤️ by James Witcher
+[GitHub: jwitcher3](https://github.com/jwitcher3)  
+[LinkedIn](https://www.https://www.linkedin.com/in/james-witcher/)
+
 Built to enable analysts to move quickly from SKU list to insights. Contributions and feedback welcome!
+
+
