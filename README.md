@@ -1,6 +1,6 @@
-# Repeatable Product-Level Promo Analysis (PxP)
+# Repeatable Product-Level Promo Analysis
 
-This project provides a **repeatable, widget-driven framework** for analyzing promotional impact at the product level (PxP). It uses PySpark to filter transactional data by product ID and date, enabling flexible deep dives into demand patterns, promotional lift, and customer behavior by SKU.
+This project provides a **repeatable, widget-driven framework** for analyzing promotional impact at the product level . It uses PySpark to filter transactional data by product ID and date, enabling flexible deep dives into demand patterns, promotional lift, and customer behavior by SKU.
 
 > 🔧 This template assumes you will **replace database, table names, and column schemas** with those from your environment. It is not tied to any particular company or dataset.
 
